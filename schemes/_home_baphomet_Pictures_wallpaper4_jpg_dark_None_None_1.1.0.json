@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/baphomet/Pictures/wallpaper4.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0C0116",
+        "foreground": "#9ed4dd",
+        "cursor": "#9ed4dd"
+    },
+    "colors": {
+        "color0": "#0C0116",
+        "color1": "#D30763",
+        "color2": "#201098",
+        "color3": "#3B3BBF",
+        "color4": "#6111A0",
+        "color5": "#9D11A2",
+        "color6": "#BC2AC3",
+        "color7": "#9ed4dd",
+        "color8": "#6e949a",
+        "color9": "#D30763",
+        "color10": "#201098",
+        "color11": "#3B3BBF",
+        "color12": "#6111A0",
+        "color13": "#9D11A2",
+        "color14": "#BC2AC3",
+        "color15": "#9ed4dd"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/arch/Pictures/w7.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#101318",
+        "foreground": "#ead8d4",
+        "cursor": "#ead8d4"
+    },
+    "colors": {
+        "color0": "#101318",
+        "color1": "#8A706B",
+        "color2": "#817F7D",
+        "color3": "#748578",
+        "color4": "#768985",
+        "color5": "#9D9C91",
+        "color6": "#DAB5A9",
+        "color7": "#ead8d4",
+        "color8": "#a39794",
+        "color9": "#8A706B",
+        "color10": "#817F7D",
+        "color11": "#748578",
+        "color12": "#768985",
+        "color13": "#9D9C91",
+        "color14": "#DAB5A9",
+        "color15": "#ead8d4"
+    }
+}

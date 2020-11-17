@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/arch/Pictures/hellboy.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1e1513",
+        "foreground": "#eac8c4",
+        "cursor": "#eac8c4"
+    },
+    "colors": {
+        "color0": "#1e1513",
+        "color1": "#B4564A",
+        "color2": "#D75B5E",
+        "color3": "#B08574",
+        "color4": "#D68D75",
+        "color5": "#E2718D",
+        "color6": "#668594",
+        "color7": "#eac8c4",
+        "color8": "#a38c89",
+        "color9": "#B4564A",
+        "color10": "#D75B5E",
+        "color11": "#B08574",
+        "color12": "#D68D75",
+        "color13": "#E2718D",
+        "color14": "#668594",
+        "color15": "#eac8c4"
+    }
+}

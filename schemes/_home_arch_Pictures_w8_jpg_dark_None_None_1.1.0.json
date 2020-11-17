@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/arch/Pictures/w8.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090613",
+        "foreground": "#7aa0ea",
+        "cursor": "#7aa0ea"
+    },
+    "colors": {
+        "color0": "#090613",
+        "color1": "#8E0428",
+        "color2": "#AE032E",
+        "color3": "#DB0237",
+        "color4": "#ED0242",
+        "color5": "#0534A1",
+        "color6": "#063FC1",
+        "color7": "#7aa0ea",
+        "color8": "#5570a3",
+        "color9": "#8E0428",
+        "color10": "#AE032E",
+        "color11": "#DB0237",
+        "color12": "#ED0242",
+        "color13": "#0534A1",
+        "color14": "#063FC1",
+        "color15": "#7aa0ea"
+    }
+}

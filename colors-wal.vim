@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/baphomet/Pictures/wallpaper11.jpg"
+let background = "#04060D"
+let foreground = "#9eb1b9"
+let cursor     = "#9eb1b9"
+
+" Colors
+let color0  = "#04060D"
+let color1  = "#315369"
+let color2  = "#3C6278"
+let color3  = "#51666F"
+let color4  = "#4A6879"
+let color5  = "#84816D"
+let color6  = "#3E6A81"
+let color7  = "#9eb1b9"
+let color8  = "#6e7b81"
+let color9  = "#315369"
+let color10 = "#3C6278"
+let color11 = "#51666F"
+let color12 = "#4A6879"
+let color13 = "#84816D"
+let color14 = "#3E6A81"
+let color15 = "#9eb1b9"

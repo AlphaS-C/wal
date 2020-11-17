@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/arch/Pictures/w5.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0f12",
+        "foreground": "#beac9d",
+        "cursor": "#beac9d"
+    },
+    "colors": {
+        "color0": "#0d0f12",
+        "color1": "#2B3546",
+        "color2": "#394454",
+        "color3": "#3D4D61",
+        "color4": "#4A4A50",
+        "color5": "#6C625F",
+        "color6": "#4C5166",
+        "color7": "#beac9d",
+        "color8": "#85786d",
+        "color9": "#2B3546",
+        "color10": "#394454",
+        "color11": "#3D4D61",
+        "color12": "#4A4A50",
+        "color13": "#6C625F",
+        "color14": "#4C5166",
+        "color15": "#beac9d"
+    }
+}

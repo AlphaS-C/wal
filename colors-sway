@@ -1,0 +1,21 @@
+set $wallpaper /home/baphomet/Pictures/wallpaper11.jpg
+
+set $background #04060D
+set $foreground #9eb1b9
+
+set $color0 #04060D
+set $color1 #315369
+set $color2 #3C6278
+set $color3 #51666F
+set $color4 #4A6879
+set $color5 #84816D
+set $color6 #3E6A81
+set $color7 #9eb1b9
+set $color8 #6e7b81
+set $color9 #315369
+set $color10 #3C6278
+set $color11 #51666F
+set $color12 #4A6879
+set $color13 #84816D
+set $color14 #3E6A81
+set $color15 #9eb1b9

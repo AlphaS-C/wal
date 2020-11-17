@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/arch/Pictures/october.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#08080F",
+        "foreground": "#f5ece0",
+        "cursor": "#f5ece0"
+    },
+    "colors": {
+        "color0": "#08080F",
+        "color1": "#B8491A",
+        "color2": "#EC5B0D",
+        "color3": "#FCA84E",
+        "color4": "#FCB25C",
+        "color5": "#F7B784",
+        "color6": "#FDD2A0",
+        "color7": "#f5ece0",
+        "color8": "#aba59c",
+        "color9": "#B8491A",
+        "color10": "#EC5B0D",
+        "color11": "#FCA84E",
+        "color12": "#FCB25C",
+        "color13": "#F7B784",
+        "color14": "#FDD2A0",
+        "color15": "#f5ece0"
+    }
+}
