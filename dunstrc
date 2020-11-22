@@ -10,7 +10,7 @@
 	word_wrap = yes
 	ignore_newline = no
 	geometry = "380x10-1510-95"
-	transparency = 5
+	transparency = 0
 	idle_threshold = 120
 	monitor = 0
 	follow = mouse
@@ -19,7 +19,7 @@
 	separator_height = 2
 	padding = 8
 	horizontal_padding = 8
-	separator_color = "#315369"
+	separator_color = "#6F3441"
 	startup_notification = false
 	show_indicators = false
 
@@ -30,18 +30,18 @@
 	context = ctrl+shift+period
 
 [urgency_low]
-	background = "#04060D"
-	foreground = "#9eb1b9"
+	background = "#090914"
+	foreground = "#cca8a5"
 	timeout = 5
 
 [urgency_normal]
-	background = "#04060D"
-	foreground = "#9eb1b9"
+	background = "#090914"
+	foreground = "#cca8a5"
 	timeout = 20
 
 [urgency_critical]
-	background = "#04060D"
-	foreground = "#9eb1b9"
+	background = "#090914"
+	foreground = "#cca8a5"
 	timeout = 0
 
 # icons
