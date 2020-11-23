@@ -19,7 +19,7 @@
 	separator_height = 2
 	padding = 8
 	horizontal_padding = 8
-	separator_color = "#6F3441"
+	separator_color = "#EA1E1B"
 	startup_notification = false
 	show_indicators = false
 
@@ -30,18 +30,18 @@
 	context = ctrl+shift+period
 
 [urgency_low]
-	background = "#090914"
-	foreground = "#cca8a5"
+	background = "#11000a"
+	foreground = "#f0ae9c"
 	timeout = 5
 
 [urgency_normal]
-	background = "#090914"
-	foreground = "#cca8a5"
+	background = "#11000a"
+	foreground = "#f0ae9c"
 	timeout = 20
 
 [urgency_critical]
-	background = "#090914"
-	foreground = "#cca8a5"
+	background = "#11000a"
+	foreground = "#f0ae9c"
 	timeout = 0
 
 # icons
